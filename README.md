@@ -1,4 +1,4 @@
-# KDebugTools
+# JseDebugTools
 
 KDebugTools is a powerful library for debugging Flutter applications
 
